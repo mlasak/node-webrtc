@@ -1,0 +1,20 @@
+{
+  "name": "node-webrtc",
+  "description": "non-browser real-time communication endpoint, interoperable with webrtc enabled browsers.",
+  "version": "0.0.0",
+  "author": "mlasak <martin.lasak@fokus.fraunhofer.de>",
+  "contributors": [
+    { "name": "mlasak", "email": "martin.lasak@fokus.fraunhofer.de" }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": ["webrtc", "video", "audio", "realtime", "communication"],
+  "repository": "git://github.com/mlasak/node-webrtc",
+  "main": "./lib/node-webrtc/index",
+  "bin": { "node-webrtc": "./bin/node-webrtc" },
+  "scripts": {
+  },
+  "engines": { "node":">= 0.5.0 < 0.7.0" }
+}
